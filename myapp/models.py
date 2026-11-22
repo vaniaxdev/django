@@ -25,5 +25,3 @@ class Book(models.Model):
 
 # python manage.py createsuperuser
 # walter 12345678
-
-# Create your models here.

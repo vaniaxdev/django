@@ -147,3 +147,4 @@ MEDIA_ROOT = BASE_DIR / 'uploads'
 
 LOGIN_REDIRECT_URL = 'show_books'
 LOGOUT_REDIRECT_URL = 'login'
+STATICFILES_DIRS = [BASE_DIR / 'static']
